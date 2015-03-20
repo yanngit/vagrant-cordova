@@ -1,7 +1,8 @@
 # testVagrant
 ##Mise en place du vagrantfile
 
-- git pull du projet 
+- git pull https://github.com/yanngit/vagrant-cordova
+- cd vagrant-cordova
 - vagrant up
 
 C'est partit pour CentOs 6.5 + cordova avec VirtualBox
