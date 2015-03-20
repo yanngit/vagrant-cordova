@@ -7,6 +7,11 @@
 
 C'est partit pour CentOs 6.5 + cordova avec VirtualBox
 
+- Username : vagrant
+- Password : vagrant
+
+Attention : avant de se logger le système utilise un clavier qwerty ... lors de l'ouverture de la session la configuration du clavier va être modifiée afin de la passer en azerty et par conséquent un second mot de passe est demandé pour root, indiquer "vagrant".
+
 ##Mise en place de l'environnement
 Dans /home/vagrant se trouve le projet WeatherApp (from github). Celui ci contient un squelette d'application cordova.
 
